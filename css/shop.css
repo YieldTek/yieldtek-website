@@ -1,0 +1,17 @@
+body {
+	background-color: black;
+}
+
+#message-container {
+	color: #6ab344;
+	position: absolute;
+	width: 100%;
+	height: 20px;
+	top: 50%;
+	margin-top: -10px;
+	text-align: center;
+}
+
+.email {
+	color: #FFF;
+}
